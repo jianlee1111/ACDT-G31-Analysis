@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib.pyplot
+seaborn
+google.colab
+kagglehub
+os
+scipy.stats
+IPython.display
+statsmodels.formula.api
